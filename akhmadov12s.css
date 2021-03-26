@@ -1,0 +1,224 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	font-family: 'Libre Franklin';
+	font-size: 18px;
+	line-height: 30px;
+}
+img {
+	width: 100%;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+.kepka {
+	display: flex;
+	width: 1100px;
+	margin: auto;
+	padding-top: 90px;
+}
+.portfolio {
+	width: 50%;
+	font-size: 24px;
+	font-weight: bold;
+
+}
+.home {
+	width: 50%;
+}
+.nav {
+	list-style-type: none;
+	display: flex;
+	justify-content: space-between;
+	padding: 0;
+	margin: 0;
+}
+.header-text h1 {
+	font-size: 64px;
+	font-weight: 400;
+}
+.h-text-2 {
+	font-size: 24px;
+}
+.header-text {
+	width: 1100px;
+	margin: auto;
+	margin-top: 150px;
+	padding-bottom: 240px;
+}
+.h-text-3 {
+	padding-top: 100px;
+	text-decoration: underline;
+}
+header {
+	color: white;
+	background-image: url(bg.png);
+	background-size: cover;
+
+}
+.header-1 {
+	background: rgba(198, 108, 73, 0.41);
+}
+.content-1 h1 {
+	font-size: 24px;
+	margin-bottom: 80px;
+
+}
+.content-text-1 {
+	width: 1100px;
+	margin: auto;
+}
+
+.lorem-p-1 {
+	padding-bottom: 20px;
+}
+.content-vertical {
+	display: flex;
+	height: 550px;
+	align-items: center;
+}
+.profile {
+	display: flex;
+}
+.section-1 .block-1 {
+	width: 1100px;
+	margin: auto;
+}
+.section-1 {
+	background-color: #FFFAF2;
+	padding-top: 90px;
+	padding-bottom: 145px;
+}
+.skills {
+	margin-bottom: 85px;
+}
+.profile-img {
+	width: 350px;
+}
+.profile-photo {
+	width: 40%;
+}
+.static-nachalo {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 65px;
+}
+.profile-static {
+	width: 60%;
+}
+.static-nachalo-1 {
+	font-weight: 700;
+}
+.static-2 {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+.static-nachalo-2 {
+	width: 450px;
+}
+.ux-block {
+	width: 450px;
+	height: 24px;
+	background: #F5D6AB;
+}
+.ux-text {
+	width: 450px;
+}
+.paper-1 {
+	width: 380px;
+	background: #C66C49;
+	height: 24px;
+}
+.paper-2 {
+	width: 350px;
+	background: #C66C49;
+	height: 24px;
+}
+.paper-3 {
+	width: 285px;
+	background: #C66C49;
+	height: 24px;
+}
+.section-2 h1 {
+	font-size: 24px;
+}
+.section-2 {
+	padding-top: 100px;
+	padding-bottom: 115px;
+}
+.portfolio-ux {
+	width: 1100px;
+	margin: auto;
+}
+.ux-h1 {
+	margin-bottom: 150px;
+}
+.text-ux {
+	width: 350px;
+}
+.ux-photo {
+	width: 635px;
+	display: flex;
+	justify-content: space-between;
+}
+.ux-text-photo {
+	display: flex;
+	justify-content: space-between;
+	height: 400px;
+}
+.ux-img-1 {
+	width: 350px;
+}
+.ux-img-2 {
+	width: 350px;
+}
+.ux-img-3 {
+	width: 255px;
+}
+.ux-img-4 {
+	width: 255px;
+}
+
+.ux-photo-1 {
+	align-content: space-between;
+}
+.ux-img-1, .ux-img-3 {
+	padding-bottom: 26px;
+}
+.ux-research .p-ux {
+	padding-bottom: 50px;
+	font-size: 18px;
+	font-weight: 600;
+}
+.ux-research {
+	position: relative;
+	bottom: 100px;
+}
+.strelka {
+	width: 60px;
+	position: relative;
+	top: 135px;
+}
+footer {
+	background-color: #FFFAF2;
+	padding: 100px 0;
+}
+.footer-1 {
+	width: 1100px;
+	margin: auto;
+}
+.block-get {
+	display: flex;
+	justify-content: space-between;
+
+}
+.get {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+
